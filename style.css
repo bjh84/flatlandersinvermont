@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    text-align: center;
+    transition: background-color 0.5s ease;
+    height: 2000px; 
+} 
+
+h1{
+    font-size: 200%;
+    color: rgb(164, 164, 164);
+}
+
