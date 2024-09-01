@@ -20,7 +20,7 @@ h1{
     bottom: 0;
     left: 50%;
     width: 2px;
-    height: 14350px;
+    height: 17550px;
     background-color: rgb(164, 164, 164);
     transform: translateX(-50%);
 }
@@ -141,110 +141,158 @@ img {
     width: 30%;
 }
 
-#wedding {
-    top: 33.5%;
+#dave {
+    top: 34%;
     left: 36%;
     width: 30%;
 }
 
-#speechNew {
+#wedding {
     top: 36%;
     left: 36%;
     width: 30%;
 }
 
+#speechNew {
+    top: 38.5%;
+    left: 36%;
+    width: 30%;
+}
+
 #houseOld {
-    top: 40%;
+    top: 42.5%;
     left: 36%;
     width: 30%;
 }
 
 #swingset {
-    top: 42%;
-    left: 36%;
-    width: 30%;
-}
-
-#riverBed {
     top: 44.5%;
     left: 36%;
     width: 30%;
 }
 
-#treehouse {
+#riverBed {
     top: 47%;
     left: 36%;
     width: 30%;
 }
 
-#vermont {
+#treehouse {
     top: 49.5%;
     left: 36%;
     width: 30%;
 }
 
-#alley {
+#vermont {
     top: 52%;
     left: 36%;
     width: 30%;
 }
 
-#sky {
+#alley {
     top: 54.5%;
     left: 36%;
     width: 30%;
 }
 
-#Flowers {
+#sky {
     top: 57%;
     left: 36%;
     width: 30%;
 }
 
-#viviNana {
+#Flowers {
     top: 59.5%;
     left: 36%;
     width: 30%;
 }
 
-#rooftop {
+#viviNana {
     top: 62%;
     left: 36%;
     width: 30%;
 }
 
-#wholeFam {
+#rooftop {
     top: 64.5%;
     left: 36%;
     width: 30%;
 }
 
-#fam {
+#wholeFam {
     top: 67%;
     left: 36%;
     width: 30%;
 }
 
-#grandkids {
+#fam {
     top: 69.5%;
     left: 36%;
     width: 30%;
 }
 
-#famSwitz {
-    top: 72%;
+#grin {
+    top: 71.8%;
     left: 36%;
     width: 30%;
 }
 
-#houseNew {
+#grandkids {
     top: 74.5%;
     left: 36%;
     width: 30%;
 }
 
-#italy {
+#famSwitz {
     top: 77%;
+    left: 36%;
+    width: 30%;
+}
+
+#houseNew {
+    top: 79.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#italy {
+    top: 82%;
     left: 26%;
     width: 50%;
+}
+
+#cin {
+    top: 86%;
+    left: 5%;
+    width: 20%;
+}
+
+#hughes {
+    top: 88%;
+    left: 28%;
+    width: 20%;
+}
+
+#house {
+    top: 90%;
+    left: 5%;
+    width: 20%;
+}
+
+#grad2 {
+    top: 91.5%;
+    left: 28%;
+    width: 20%;
+}
+
+#bro {
+    top: 93%;
+    left: 5%;
+    width: 20%;
+}
+
+#mccauley {
+    top: 96%;
+    left: 8%;
+    width: 40%;
 }
