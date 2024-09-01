@@ -20,15 +20,15 @@ window.onscroll = function() {
     const scrollPercentage = (window.scrollY / scrollHeight) * 100;
 
     // Use a flag to check if the song has already changed
-    if (scrollPercentage < 50 && audio.dataset.song !== 'Bach') {
+    if (scrollPercentage < 14 && audio.dataset.song !== 'Bach') {
         audio.src = 'Bach.mp3';
         audio.dataset.song = 'Bach'; // Set the flag
         audio.play(); // Play the song
     } 
     /*
-    else if (scrollPercentage > 13.5 && scrollPercentage < # && audio.dataset.song != 'song') {
-        audio.src = 'song.mp3';
-        audio.dataset.song = 'song'; // Set the flag
+    else if (scrollPercentage > 14 && scrollPercentage < # && audio.dataset.song != 'Blue') {
+        audio.src = 'Blue.mp3';
+        audio.dataset.song = 'Blue'; // Set the flag
         audio.play(); // Play the song
     }
     */

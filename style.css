@@ -3,7 +3,7 @@ body{
     background-color: white;
     text-align: center;
     transition: background-color 0.5s ease;
-    height: 8000px; 
+    height: 18000px; 
     position: relative;
     margin: 0;
 } 
@@ -20,7 +20,7 @@ h1{
     bottom: 0;
     left: 50%;
     width: 2px;
-    height: 7750px;
+    height: 14350px;
     background-color: rgb(164, 164, 164);
     transform: translateX(-50%);
 }
@@ -36,56 +36,215 @@ img {
 }
 
 #bobDog {
-    top: 2%;
+    top: 1.5%;
     left: 5%;
 }
 
 #stand {
-    top:5%;
+    top:3%;
     left: 28%;
 }
 
 #golfin {
-    top:8%;
+    top:4.5%;
     left: 5%;
 }
 
 #tuba {
-    top:11%;
+    top:6%;
     left: 28%;
 }
 
 #bobFam {
-    top: 14%;
+    top: 7.5%;
     left: 5%; 
 }
 
 #bike {
-    top: 15%; 
+    top: 9%; 
     left: 28%; 
 }
 
 #patColor {
-    top: 2%;
+    top: 1.5%;
     left: 55%;
 }
 
 #parents {
-    top: 5%;
+    top: 3%;
     left: 78%;
 }
 
 #dog {
-    top: 8%;
+    top: 4.5%;
     left: 55%;
 }
 
 #piano {
-    top: 11%;
+    top: 6%;
     left: 78%;
 }
 
 #siblings {
-    top: 14%;
+    top:7.5%;
     left: 55%;
+}
+
+#hsTrack {
+    top: 10.5%;
+    left: 5%;
+}
+
+#women {
+    top: 10.5%;
+    left: 55%;
+}
+
+#grad {
+    top: 13%;
+    left: 40%;
+}
+
+#invite {
+    top: 15%;
+    left: 36%;
+    width: 30%;
+}
+
+#suited {
+    top: 19%;
+    left: 36%;
+    width: 30%;
+}
+
+#ls {
+    top: 22.8%;
+    left: 36%;
+    width: 30%;
+}
+
+#wood {
+    top: 25%;
+    left: 36%;
+    width: 30%;
+}
+
+#family {
+    top: 27.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#settle {
+    top: 30%;
+    left: 36%;
+    width: 30%;
+}
+
+#wedding {
+    top: 33.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#speechNew {
+    top: 36%;
+    left: 36%;
+    width: 30%;
+}
+
+#houseOld {
+    top: 40%;
+    left: 36%;
+    width: 30%;
+}
+
+#swingset {
+    top: 42%;
+    left: 36%;
+    width: 30%;
+}
+
+#riverBed {
+    top: 44.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#treehouse {
+    top: 47%;
+    left: 36%;
+    width: 30%;
+}
+
+#vermont {
+    top: 49.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#alley {
+    top: 52%;
+    left: 36%;
+    width: 30%;
+}
+
+#sky {
+    top: 54.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#Flowers {
+    top: 57%;
+    left: 36%;
+    width: 30%;
+}
+
+#viviNana {
+    top: 59.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#rooftop {
+    top: 62%;
+    left: 36%;
+    width: 30%;
+}
+
+#wholeFam {
+    top: 64.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#fam {
+    top: 67%;
+    left: 36%;
+    width: 30%;
+}
+
+#grandkids {
+    top: 69.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#famSwitz {
+    top: 72%;
+    left: 36%;
+    width: 30%;
+}
+
+#houseNew {
+    top: 74.5%;
+    left: 36%;
+    width: 30%;
+}
+
+#italy {
+    top: 77%;
+    left: 26%;
+    width: 50%;
 }
