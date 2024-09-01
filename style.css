@@ -1,0 +1,91 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    text-align: center;
+    transition: background-color 0.5s ease;
+    height: 8000px; 
+    position: relative;
+    margin: 0;
+} 
+
+h1{
+    font-size: 200%;
+    color: rgb(164, 164, 164);
+    margin-top: 20px;
+}
+
+.vertical-line {
+    position: absolute;
+    top: 250px;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    height: 7750px;
+    background-color: rgb(164, 164, 164);
+    transform: translateX(-50%);
+}
+
+.image-container {
+    position: relative;
+}
+
+img {
+    position: absolute;
+    width: 20%;
+    height: auto;
+}
+
+#bobDog {
+    top: 2%;
+    left: 5%;
+}
+
+#stand {
+    top:5%;
+    left: 28%;
+}
+
+#golfin {
+    top:8%;
+    left: 5%;
+}
+
+#tuba {
+    top:11%;
+    left: 28%;
+}
+
+#bobFam {
+    top: 14%;
+    left: 5%; 
+}
+
+#bike {
+    top: 15%; 
+    left: 28%; 
+}
+
+#patColor {
+    top: 2%;
+    left: 55%;
+}
+
+#parents {
+    top: 5%;
+    left: 78%;
+}
+
+#dog {
+    top: 8%;
+    left: 55%;
+}
+
+#piano {
+    top: 11%;
+    left: 78%;
+}
+
+#siblings {
+    top: 14%;
+    left: 55%;
+}
