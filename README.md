@@ -1,3 +1,3 @@
 This project is a website memorial dedicated to my grandparents.
 
-[Link](flatlandersinvermont.org)
+[Link](https://flatlandersinvermont.org)
